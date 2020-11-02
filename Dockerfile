@@ -1,7 +1,3 @@
-# TERMINAL COMMANDS -i for interactive mode
-# docker build -t server .
-# docker run -it -p 80:80 -p 443:443 server
-
 # the base image
 FROM debian:buster
 
