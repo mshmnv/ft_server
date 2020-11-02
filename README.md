@@ -12,7 +12,7 @@ correct website.
 * Server is running with an autoindex that must be able to be disabled.
 
 COMMANDS TO USE:
-'''
+```
 docker build -t server .
 docker run -it -p 80:80 -p 443:443 server
-'''
+```
