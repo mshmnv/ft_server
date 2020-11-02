@@ -2,7 +2,7 @@
 
 ![Result](/img/result.png)
 
-* System Administration *
+*System Administration project*
 
 * Web server is set up with Nginx, in only one docker container. The container OS is debian buster.
 * Web server is able to run several services at the same time. The services are a WordPress website, phpMyAdmin and MySQL. SQL database works with the WordPress and phpMyAdmin.
