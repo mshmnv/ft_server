@@ -16,3 +16,8 @@ correct website.
 docker build -t server .
 docker run -it -p 80:80 -p 443:443 server
 ```
+**or**
+```
+make bultd
+make run
+```
