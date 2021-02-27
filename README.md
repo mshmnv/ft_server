@@ -1,7 +1,5 @@
 # FT_SERVER
 
-![Result](/img/result.png)
-
 *System Administration project*
 
 * Web server is set up with Nginx, in only one docker container. The container OS is debian buster.
